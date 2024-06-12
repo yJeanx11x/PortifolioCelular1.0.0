@@ -1,0 +1,60 @@
+.contener {
+  width: 450px;
+  height: 750px;
+  background-color: #d4d4d4;
+  border-radius: 25px;
+  border: 1xpx solid #000000;
+  margin: auto;
+  display: flex;
+  margin-top: 80px;
+  justify-content: center;
+  background-image: url(../img/33659df52bec8f60195fbb799bd88b3c.jpeg);
+  background-repeat: no-repeat;
+}
+header {
+  width: 150px;
+  margin-left: 100px;
+  position: absolute;
+}
+.hora {
+  font-size: 80pt;
+  color: #fff;
+}
+.data {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  font-size: 18pt;
+}
+section{
+                width: 400px;
+                height: 80px;
+                margin-top: 190px;
+                
+}
+.notificacao {
+  display: flex;
+  background-color: #000000;
+  width: 400px;
+  height: 80px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  color: #ffffffc7;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+.perfil{
+width: 40px;
+display: flex;
+margin-left: -280px;
+position: absolute;
+}
+.msg{
+        width: 250px;
+        height:80px;
+        text-align: center;
+        justify-content: center;
+        margin-top: 40px;
+        margin-left: 5px;
+}
